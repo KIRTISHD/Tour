@@ -1,2 +1,23 @@
 # Tour
 Description of the Repositories that I have
+
+- #### [Leetcode programs](https://github.com/KIRTISHD/Leetcode)
+Some problems from Leetcode site (solved in Java/Python)
+
+
+- #### [DAC](https://github.com/KIRTISHD/DAC)
+Assignments I did during my DAC course
+
+
+- #### [To-Do App](https://github.com/KIRTISHD/todo-rails)
+Tried my first project using Rub on Rails
+
+
+- #### [CodeChef](https://github.com/KIRTISHD/Codechef)
+Some problems from Codechef site
+
+
+- #### [HacckerRAnk](https://github.com/KIRTISHD/Hackerrank-DataStructures-Python)
+Some problems from Datastructure Section in Hackerrank site
+
+
