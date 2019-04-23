@@ -17,7 +17,12 @@ Tried my first project using Rub on Rails
 Some problems from Codechef site
 
 
-- #### [HacckerRAnk](https://github.com/KIRTISHD/Hackerrank-DataStructures-Python)
+- #### [HackerRank](https://github.com/KIRTISHD/Hackerrank-DataStructures-Python)
 Some problems from Datastructure Section in Hackerrank site
+
+
+- #### [HackerRank CPP](https://github.com/KIRTISHD/Hackerrank-cpp)
+Some problems from C++ Section in Hackerrank site
+
 
 
