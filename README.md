@@ -10,7 +10,7 @@ Assignments I did during my DAC course
 
 
 - #### [To-Do App](https://github.com/KIRTISHD/todo-rails)
-Tried my first project using Rub on Rails
+Tried my first project using Ruby on Rails
 
 
 - #### [CodeChef](https://github.com/KIRTISHD/Codechef)
@@ -23,6 +23,10 @@ Some problems from Datastructure Section in Hackerrank site
 
 - #### [HackerRank CPP](https://github.com/KIRTISHD/Hackerrank-cpp)
 Some problems from C++ Section in Hackerrank site
+
+
+- #### [HackerRank Java](https://github.com/KIRTISHD/Hackerrank-Java)
+Some problems from Java Section in Hackerrank site
 
 
 
